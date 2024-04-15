@@ -6,6 +6,8 @@ The New York City Department of Health and Mental Hygiene is responsible for reg
 
 ## Getting Started
 
+
+![deliverables](https://github.com/mchc7/Practicum---Group-10-/blob/main/deliverables_mapping.png)
 ### Deliverables
 
 Table 1 summarizes the primary differences between these five types:
