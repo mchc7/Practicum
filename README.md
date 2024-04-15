@@ -1,6 +1,4 @@
-# Project Title
-
-City of New York Restaurant Regulation
+# Project Title : City of New York Restaurant Regulation
 
 ## Description
 
@@ -8,10 +6,17 @@ The New York City Department of Health and Mental Hygiene is responsible for reg
 
 ## Getting Started
 
-### Dependencies
+### Deliverables
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Table 1 summarizes the primary differences between these five types:
+
+| Deliverable Type | Designed to be:|
+| --- | --- |
+| Data Cleaning and Preparation | Implemented (in code)|
+| Glossary | Implemented (in code) |
+| Recommendation | Followed (in practice) |
+| Guides | Executed (in operation) |
+| White Paper | Understood (to support decisions) |
 
 ### Installing
 
