@@ -22,6 +22,10 @@ Table 1 summarizes the primary differences between these five types:
 | Dashboard |Implemented(in .twbx dashboard) |NY_dashboard.twbx
 | Presentation |Implemented(in .pptx) |NY_presentation.pptx
 
+### Process Detail
+
+![Detail](https://github.com/mchc7/Practicum---Group-10-/blob/main/notebook_process.png).
+
 ### Installing
 
 * How/where to download your program
