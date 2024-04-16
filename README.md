@@ -50,9 +50,9 @@ Contact Authors
 
 Contributors names and contact info
 
-Arnav Chaudhari
-Emma Hudson
-Manuel Chavez
+Arnav Chaudhari|
+Emma Hudson|
+Manuel Chavez|
 Nada Mashkour
 
 ## Version History
