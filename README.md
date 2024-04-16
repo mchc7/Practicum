@@ -4,7 +4,8 @@
 
 The New York City Department of Health and Mental Hygiene is responsible for regulating 24,000 restaurants. At least once per year, the department conducts inspections randomly, with a holistic approach (i.e. food handling, food temperature, personal hygiene, and vermin control).The department’s main goal is to achieve high quality standards in the establishments.
 
-## Getting Started
+## Purpouse
+Segmentation, according to the probabilistic risk. Specifically, how to successfully determine an accurate impact measurement of the factors considered in the score weighting.
 
 
 ![deliverables](https://github.com/mchc7/Practicum---Group-10-/blob/main/deliverables_mapping.png)
@@ -31,14 +32,14 @@ Table 1 summarizes the primary differences between these five types:
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+installing given packages
 ```
 
 ## Help
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+Contact Authors 
 ```
 
 ## Authors
@@ -53,14 +54,13 @@ Nada Mashkour
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
+    * Various fixes 
     * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is an open public project .
 
 ## Acknowledgments
 
