@@ -13,7 +13,7 @@ The New York City Department of Health and Mental Hygiene is responsible for reg
 Table 1 summarizes the primary differences between these five types:
 
 | Deliverable Type | Designed to be:|File Name
-| --- | --- |
+| --- | --- | --- |
 | Raw Data | Given by NYC Dataset |Raw_dataset.csv
 | Data Cleaning and Preparation | Implemented (in code)|Ny_notebook.ipynb
 | Clustering /Segmentation  | Implemented (in code) |Ny_notebook.ipynb
