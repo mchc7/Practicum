@@ -12,13 +12,14 @@ The New York City Department of Health and Mental Hygiene is responsible for reg
 
 Table 1 summarizes the primary differences between these five types:
 
-| Deliverable Type | Designed to be:|
+| Deliverable Type | Designed to be:|File Name
 | --- | --- |
-| Data Cleaning and Preparation | Implemented (in code)|
-| Glossary | Implemented (in code) |
-| Recommendation | Followed (in practice) |
-| Guides | Executed (in operation) |
-| White Paper | Understood (to support decisions) |
+| Raw Data | Given by NYC Dataset |Raw_dataset.csv
+| Data Cleaning and Preparation | Implemented (in code)|Ny_notebook.ipynb
+| Clustering /Segmentation  | Implemented (in code) |Ny_notebook.ipynb
+| Agreggate data  |Code's output |final_dataset.csv
+| Dashboard |Implemented(in .twbx dashboard) |NY_dashboard.twbx
+| Presentation |Implemented(in .pptx) |NY_presentation.pptx
 
 ### Installing
 
@@ -44,8 +45,10 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Arnav Chaudhari
+Emma Hudson
+Manuel Chavez
+Nada Mashkour
 
 ## Version History
 
@@ -61,9 +64,6 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+https://opendata.cityofnewyork.us/
+https://github.com/SelfExplainML/PiML-Toolbox
+
